@@ -1,2 +1,2 @@
 # note
-Coding helper
+Coding Helper
